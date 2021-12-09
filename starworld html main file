@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+      <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: Travel webpage"</title>
+      <style> body{ background-color: rgb(250, 205, 225);}
+          #title-two{ color: rgb(204, 33, 178);}
+          #title-one{ color: rgb(22, 158, 88);} 
+          #list-title{ color: rgb(32, 212, 68);}
+          #food-list{ background-color: rgb(115, 184, 230);}    
+          .travel-invite{ color: rgb(20, 66, 9);}
+         
+        
+      </style>
+     
+    </head>
+    <body>
+        
+        <h1 id="title-one">Travel to Starworld!</h1>
+        <h2 id="title-two"> An Amazing Land You've Never Seen</h2>
+        <img src="https://www.kasandbox.org/programming-images/landscapes/waterfall_niagara-falls.png" alt="nigeria falls" width="389">
+    <p> Starworld is a magnifiacent place to be. This land has very unusual sights, creatures, foods, and everything in between. Hidden in the country of Narnia, off the Imagination Plains, <em>it is the warmest place there</em>.
+   <h2 id="list-title">Why Travel to Starworld</h2>     
+    <ol> 
+    <li>New foods to try! 
+    </ol> 
+ 
+
+     <h3 id="food-list"> Foods </h3> 
+     <ul> <li> Frity Fruit 
+         </ul> 
+         <p>Frity Fruit can taste like all kinds of things. Some taste like cake, some taste <br>like lolipops, some marshmallows, and much more. One kind can taste like <br>anything you want.</p>
+    <img src="https://www.kasandbox.org/programming-images/food/fruits.png" alt="lots of colorful fruits" width="239" >
+       <ul> <li> Freezy Pudding
+        
+     </ul> 
+     <p>Freezy Pudding tastes cold as ice cream and creamy as pudding</p>
+     <img src="https://www.kasandbox.org/programming-images/food/ice-cream.png" alt="ice cream box cans" width="239"> 
+      
+          
+      <ul> <li> Seafood Rolls
+     </ul> 
+     <p>Get rolls straight from the sea. Every seafood rolled into Wallato seaweed <br>and special Starworld searice.  </p>
+     <img src="https://www.kasandbox.org/programming-images/food/sushi.png" alt="sushi with sliced fish on plate" width="239"> 
+     
+     
+     <ul><li>Imagi Cake</ul> 
+     <p>This Imagi cake taste like anything you can imagine, obviously, it looks like<br>a fruity cheese cake, and it is made out of the Anything Frity Fruit. </p>
+     <img src="https://www.kasandbox.org/programming-images/food/cake.png" alt="fruity cheesecake" width="239">
+      
+      <ul><li> Winston's Chocolate Truffies</ul> 
+      <p>These yummy chocolate truffles are the best around, made by top Chef Winston</p>
+      <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/chocolates.png" alt="chocolate" width="239"> 
+      
+ 
+
+      <p><strong>As you see, Starworld has everything imagination can take you.</strong></p>
+      <h2 class="travel-invite">Now You know everything about Starworld</h2>
+<h3 class="travel-invite"> Travel there now!</h3>     
+
+        
+         
+     </body>
+
+</html>
